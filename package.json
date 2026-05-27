@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/nilesh-g/express-login-ui#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "chromedriver": "^148.0.4",
+    "express": "^5.2.1",
+    "selenium-webdriver": "^4.44.0"
   }
 }
